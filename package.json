@@ -3,6 +3,8 @@
     "displayName": "Framer Web Syntax",
     "description": "A syntax theme resembling the Framer Web code editor.",
     "version": "0.0.1",
+    "publisher": "saschamt",
+    "repository": "https://github.com/saschamt/framer-syntax",
     "engines": {
         "vscode": "^1.45.0"
     },
@@ -10,12 +12,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Framer Web Syntax",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Framer Web Syntax-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Framer Web Syntax",
+            "uiTheme": "vs-dark",
+            "path": "./themes/framer-web-syntax-color-theme.json"
+        }]
     }
 }
