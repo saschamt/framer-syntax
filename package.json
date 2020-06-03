@@ -4,7 +4,8 @@
     "description": "A syntax theme resembling the Framer Web code editor.",
     "version": "0.0.1",
     "publisher": "saschamt",
-    "repository": "https://github.com/saschamt/framer-syntax",
+    "repository": "https://github.com/saschamt/framer-syntax.git",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.45.0"
     },
