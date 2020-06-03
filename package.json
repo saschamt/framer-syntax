@@ -2,7 +2,7 @@
     "name": "framer-web-syntax",
     "displayName": "Framer Web Syntax",
     "description": "A syntax theme resembling the Framer Web code editor.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "saschamt",
     "repository": "https://github.com/saschamt/framer-syntax.git",
     "icon": "icon.png",
