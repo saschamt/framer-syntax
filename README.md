@@ -1,5 +1,8 @@
+
 # Framer Web Syntax
 ## A Syntax Theme for VSCode - Alpha Release
+
+![Framer Web Syntax Icon](https://github.com/saschamt/framer-syntax/blob/master/icon.png?raw=true)
 
 The unofficial theme for folks who prefer working in [VSCode](https://code.visualstudio.com) while creating awesome stuff in [Framer](https://framer.com)
 
