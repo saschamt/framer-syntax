@@ -2,7 +2,7 @@
     "name": "framer-web-syntax",
     "displayName": "Framer Web Syntax",
     "description": "A syntax theme resembling the Framer Web code editor.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "saschamt",
     "repository": "https://github.com/saschamt/framer-syntax.git",
     "icon": "icon.png",
@@ -13,10 +13,12 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "Framer Web Syntax",
-            "uiTheme": "vs-dark",
-            "path": "./themes/framer-web-syntax-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Framer Web Syntax",
+                "uiTheme": "vs-dark",
+                "path": "./themes/framer-web-syntax-color-theme.json"
+            }
+        ]
     }
 }
