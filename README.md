@@ -10,6 +10,14 @@ The unofficial theme for folks who prefer working in [VSCode](https://code.visua
 
 ## Installation
 
+### From the Web
+
+1. For an easy installation, go to [visit the theme's page](https://marketplace.visualstudio.com/items?itemName=saschamt.framer-web-syntax#review-details) on the VSCode Marketplace and hit the "Install" button.
+2. Confirm that you want the page to open VSCode
+3. Click the "install" button on the theme's page within VSCode.
+
+### From VSCode
+
 1. In VSCode, go to "Preferences" -> "Color Theme"
 2. Select "Install Additional Color Themes…"
 3. Type in "framer web syntax" and click to install
